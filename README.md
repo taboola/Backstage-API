@@ -12,7 +12,7 @@
 
 ## 1. Authentication and General API Usage
 
-Taboola uses [OAuth2](https://oauth.net/2/)for authentication.
+Taboola uses [OAuth2](https://oauth.net/2/) for authentication.
 The idea is simple - request an Access Token from the Authorization Server, then attach the obtained Access Token as an HTTP header when making requests to the API.
 All requests to the API must include an Authorization HTTP header, with its value containing the retrieved Access Token.
 
