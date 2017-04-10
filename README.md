@@ -41,12 +41,12 @@ For example, if the user would like to target specific countries, the dictionary
 
 The following dictionaries are available via the API:
 1. Generic dictionaries:
-a. Get a list of dictionaries.
-b. Get a list of supported countries and regions.
-c. Get a list of supported platforms.
+  a. Get a list of dictionaries.
+  b. Get a list of supported countries and regions.
+  c. Get a list of supported platforms.
 2. Resource specific dictionaries:
-a. Get a list of possible enum values that relate to campaigns.
-b. Get a list of possible enum values that relate to items.
+  a. Get a list of possible enum values that relate to campaigns.
+  b. Get a list of possible enum values that relate to items.
 
 ## 5. Errors
 
