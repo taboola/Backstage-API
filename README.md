@@ -12,6 +12,12 @@
 
 ## 1. Authentication and General API Usage
 
+Taboola uses  OAuth2  for authentication.
+The idea is simple - request an Access Token from the Authorization Server, then attach the obtained Access Token as an HTTP header when making requests to the API.
+All requests to the API must include an Authorization HTTP header, with its value containing the retrieved Access Token.
+
+There are four possible ways to retrieve an Access Token, all detailed in the document.
+
 ## 2. Campaign Items
 
 Relevant only for advertisers.
@@ -28,6 +34,7 @@ The following operations are available via the API:
 ## 3. Campaigns
 
 Relevant only for advertisers.
+
 The following operations are available via the API:
 1. Fetch a List of Campaigns - Fetch a list of Campaigns associated with a specific partner account.
 2. Fetch a Single Campaign - Fetch a single Campaign resource using the Campaign ID.
@@ -37,21 +44,22 @@ The following operations are available via the API:
 ## 4. Dictionary
 
 The dictionary allows to get from Taboola lists of possible values and their meaning in various contexts (enum’s and their relevant codes). This is used in order to get predefined allowed values to be selected by the user. 
+
 For example, if the user would like to target specific countries, the dictionary will allow to get the possible country values supported in Taboola and display them as selectable options to the user.
 
 The following dictionaries are available via the API:
 1. Generic dictionaries:
-  a. Get a list of dictionaries.
-  b. Get a list of supported countries and regions.
-  c. Get a list of supported platforms.
+* Get a list of dictionaries.
+* Get a list of supported countries and regions.
+* Get a list of supported platforms.
 2. Resource specific dictionaries:
-  a. Get a list of possible enum values that relate to campaigns.
-  b. Get a list of possible enum values that relate to items.
+* Get a list of possible enum values that relate to campaigns.
+* Get a list of possible enum values that relate to items.
 
 ## 5. Errors
 
 The Backstage API returns errors in a JSON format. The response body will contain an object with several fields, and the HTTP status will be set appropriately.
-This documnet details the different errors you can get and their meanings.
+This document details the different errors you can get and their meanings.
 
 ## 6. Reports
 The document details the different reports you can pull using the API, including supported dimensions and filters.
