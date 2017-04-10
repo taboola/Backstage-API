@@ -10,12 +10,15 @@
 7. [Users](#7-users)
 
 
+
 ## 1. Authentication and General API Usage
 Taboola uses [OAuth2](https://oauth.net/2/) for authentication.
 The idea is simple - request an Access Token from the Authorization Server, then attach the obtained Access Token as an HTTP header when making requests to the API.
 All requests to the API must include an Authorization HTTP header, with its value containing the retrieved Access Token.
 
 There are four possible ways to retrieve an Access Token, all detailed in the document.
+
+
 
 ## 2. Campaign Items
 Relevant only for advertisers.
@@ -30,6 +33,8 @@ The following operations are available via the API:
 6. Fetch Children Items of an RSS Item
 7. Fetch a specific Child Item of an RSS Item
 8. Update a child of an RSS Item
+
+
 
 ## 3. Campaigns
 Relevant only for advertisers.
