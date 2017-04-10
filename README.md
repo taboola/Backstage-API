@@ -67,5 +67,14 @@ This document details the different errors you can get and their meanings.
 ## 6. Reports
 The document details the different reports you can pull using the API, including supported dimensions and filters.
 
+Advertiser reports available through the API:
+* Campaign Summary - This report provides general campaign metrics such as impressions, clicks, conversions, spend, as well as performance metrics such as CTR, CPC, CPM, CPA. The report can be broken down by date, campaign, referring site, country or platform.
+* Top Campaign Content - This report lists the top 500 Items of a Campaign. The report allows fetching the top 500 Items for all Campaigns of an Account, or filter the results to include only the Items of a specific Campaign.
+
+Publisher reports available through the API:
+* Revenue Summary - This report provides general revenue information, as well as revenue performance statistics such as RPM, CPC and CTR. This report allows breaking down revenue performance metrics by site, page type, placement, platform and country.
+* Visit Value - This report provides revenue and engagement metrics for an entire visit, allowing to deduce the value of a visitor. This report allows breaking down that value by referral source, visit landing page, platform and country.
+* Recirculation Summary - This report provides organic content performance information such as Page Views and CTR.  This report allows breaking down organic (recirculation) performance metrics by date, page type, publisher, country and platform.
+
 ## 7. Users
 The API enables you to fetch a list of the user's allowed Accounts.
