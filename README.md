@@ -22,11 +22,11 @@ There are four possible ways to retrieve an Access Token, all detailed in the do
 
 Relevant only for advertisers.
 The following operations are available via the API:
-1. Fetch a List of Items for a specific Campaign - Fetch all of the Items associated with a certain Campaign.
-2. Fetch a Single Item from a Campaign - Fetch a single Item associated with a certain Campaign.
-3. Create an Item - Create a new Item in a specific Campaign.
-4. Update an Item - Update an existing Item.
-5. Delete (Stop) an Item - Move an existing Item to a 'STOPPED' status.
+1. Fetch a List of Items for a specific Campaign.
+2. Fetch a Single Item from a Campaign.
+3. Create a new Item in a specific Campaign.
+4. Update an existing Item.
+5. Delete (Stop) an Item.
 6. Fetch Children Items of an RSS Item
 7. Fetch a specific Child Item of an RSS Item
 8. Update a child of an RSS Item
@@ -34,6 +34,8 @@ The following operations are available via the API:
 ## 3. Campaigns
 
 Relevant only for advertisers.
+
+
 
 The following operations are available via the API:
 1. Fetch a List of Campaigns - Fetch a list of Campaigns associated with a specific partner account.
@@ -49,12 +51,12 @@ For example, if the user would like to target specific countries, the dictionary
 
 The following dictionaries are available via the API:
 1. Generic dictionaries:
-* Get a list of dictionaries.
-* Get a list of supported countries and regions.
-* Get a list of supported platforms.
+  * Get a list of dictionaries.
+  * Get a list of supported countries and regions.
+  * Get a list of supported platforms.
 2. Resource specific dictionaries:
-* Get a list of possible enum values that relate to campaigns.
-* Get a list of possible enum values that relate to items.
+  * Get a list of possible enum values that relate to campaigns.
+  * Get a list of possible enum values that relate to items.
 
 ## 5. Errors
 
