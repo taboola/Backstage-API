@@ -7,7 +7,7 @@
 4. [Dictionary](#4-dictionary)
 5. [Errors](#5-errors)
 6. [Reports](#6-reports)
-7. [Targeting] (#7-targeting)
+7. [Targeting](#7-targeting)
 8. [Users](#8-users)
 
 
