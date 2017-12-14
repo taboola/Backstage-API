@@ -7,7 +7,8 @@
 4. [Dictionary](#4-dictionary)
 5. [Errors](#5-errors)
 6. [Reports](#6-reports)
-7. [Users](#7-users)
+7. [Targeting] (#7-targeting)
+8. [Users](#8-users)
 
 
 
@@ -76,5 +77,13 @@ The document details the different reports you can pull using the API, including
 * **Visit Value** - This report provides revenue and engagement metrics for an entire visit, allowing to deduce the value of a visitor. This report allows breaking down that value by referral source, visit landing page, platform and country.
 * **Recirculation Summary** - This report provides organic content performance information such as Page Views and CTR.  This report allows breaking down organic (recirculation) performance metrics by date, page type, publisher, country and platform.
 
-## 7. Users
+## 7. Targeting
+Targeting   your   campaigns   to   the   right   segment   helps   you   get   the   most   out   of   your campaigns.   In   the   following   document   you   will   find   information   regarding   the   targeting abilities   supported   by   the   API.
+The   supported   targeting   options   are:
+1. Geo  Targeting  -  You  can  target  specific  geographic  areas  -  like  countries  or
+regions   within   a   specific   country.   You   can   also   target   more   granularly   -   by   postal code.   For   example,   you   can   run   your   local   store   campaigns   only   in   places   you have   physical   stores,   helping   you   spend   your   budget   wisely   and   attract   relevant customers.
+2. Platform  Targeting  (include  only)  -  You  can  choose  on  which  devices  your campaign   items   will   appear.   Platform   targeting   can   be   useful   if   you   have   different product   or   service   offerings   for   users   that   browse   from   different   platforms.   For example,   if   you’re   offering   a   mobile   app,   it   would   make   sense   to   target   mobile devices   only.
+3. Publisher  Targeting  (exclude  only)  -  You  can  block  specific  publishers  from serving   your   campaign.
+
+## 8. Users
 The API enables you to fetch a list of the user's allowed Accounts.
