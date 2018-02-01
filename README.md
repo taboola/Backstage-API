@@ -9,6 +9,7 @@
 6. [Reports](#6-reports)
 7. [Targeting](#7-targeting)
 8. [Users](#8-users)
+9. [API Libraries](#9-api-libraries)
 
 
 
@@ -87,3 +88,7 @@ regions   within   a   specific   country.   You   can   also   target   more   
 
 ## 8. Users
 The API enables you to fetch a list of the user's allowed Accounts.
+
+## 9. API Libraries
+
+1. [Java Library](https://github.com/taboola/backstage-api-java-client)
