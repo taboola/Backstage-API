@@ -1,5 +1,9 @@
 # Backstage-API
 
+## UPDATE
+
+**NEW**, *on-line* docs: https://backstage-api.readme.io/reference
+
 ## Table of Contents
 1. [Authentication and General API Usage](#1-authentication-and-general-api-usage)
 2. [Campaign Items](#2-campaign-items)
