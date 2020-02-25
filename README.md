@@ -1,6 +1,8 @@
 # Backstage-API
 
-**DEPRECATION NOTICE - FEBRUARY 25, 2020**
+## DEPRECATION NOTICE ## 
+
+**FEBRUARY 25, 2020**
 
 This Git Repo has been *retired*.
 
