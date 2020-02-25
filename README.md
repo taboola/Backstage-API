@@ -1,8 +1,8 @@
 # Backstage-API
 
-## DEPRECATION NOTICE ## 
+## Deprecation Notice ## 
 
-**FEBRUARY 25, 2020**
+**Feb 25, 2020**
 
 This Git Repo has been *retired*. Please use the [*online docs*](https://developers.taboola.com/backstage-api/reference) instead.
 
