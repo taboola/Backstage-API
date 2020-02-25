@@ -1,8 +1,10 @@
 # Backstage-API
 
-## UPDATE
+## DEPRECATION NOTICE - FEBRUARY 25, 2020
 
-**NEW**, *online* docs: https://backstage-api.readme.io/reference
+The *documentation* in this Git Repo has been *retired*.
+
+Going forward, please use the docs available *online*: https://developers.taboola.com/backstage-api/reference
 
 ## Table of Contents
 1. [Authentication and General API Usage](#1-authentication-and-general-api-usage)
