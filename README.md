@@ -4,7 +4,7 @@
 
 The *documentation* in this Git Repo has been *retired*.
 
-Please use the [*online* docs](https://developers.taboola.com/backstage-api/reference).
+Please use the [*online docs*](https://developers.taboola.com/backstage-api/reference).
 
 ## API Libraries
 
