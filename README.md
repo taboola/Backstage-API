@@ -2,9 +2,9 @@
 
 **DEPRECATION NOTICE - FEBRUARY 25, 2020**
 
-The *PDF documentats* found here have been *retired*.
+This Git Repo has been *retired*.
 
-Please use the [*online docs*](https://developers.taboola.com/backstage-api/reference).
+Instead, please use the [*online docs*](https://developers.taboola.com/backstage-api/reference).
 
 ## API Libraries
 
