@@ -8,4 +8,4 @@ Please use the [*online* docs](https://developers.taboola.com/backstage-api/refe
 
 ## API Libraries
 
-1. [Java Library](https://github.com/taboola/backstage-api-java-client)
+[Java Library](https://github.com/taboola/backstage-api-java-client)
