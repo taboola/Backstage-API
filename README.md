@@ -4,4 +4,6 @@
 
 **Feb 25, 2020**
 
-This Git Repo has been *retired*. Please use the [*online docs*](https://developers.taboola.com/backstage-api/reference) instead.
+For the most part, this Git Repo has been *retired*. Please use the [*online docs*](https://developers.taboola.com/backstage-api/reference) instead.
+
+For **publisher reports**, refer to the [Backstage Reports](https://github.com/taboola/Backstage-API/blob/master/Backstage%20API%20-%20Reports.pdf) doc in this repo.
