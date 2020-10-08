@@ -1,5 +1,3 @@
-# Backstage-API
-
 ## Deprecation Notice ## 
 
 The documents in this Repo have been *retired*. Please use the [*online docs*](https://developers.taboola.com/backstage-api/reference) instead.
