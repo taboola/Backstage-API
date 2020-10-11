@@ -4,4 +4,4 @@ The documents in this Repo have been *retired*. Please use the [*online docs*](h
 
 ## A Note for Publishers
 
-For **Publisher reports**, refer to [Backstage Reports](https://github.com/taboola/Backstage-API/blob/master/Backstage%20API%20-%20Reports.pdf) in this repo.
+For **Publisher reports**, refer to [Backstage API - Reports.pdf](https://github.com/taboola/Backstage-API/blob/master/Backstage%20API%20-%20Reports.pdf) in this repo.
