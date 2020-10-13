@@ -1,7 +1,11 @@
-# Deprecation Notice
+# DEPRECATION NOTICE
 
-The documents in this Repo have been *retired*. Please use the [*online docs*](https://developers.taboola.com/backstage-api/reference) instead.
+### These docs have been _retired_. Please use the _online docs_:
 
-## A Note for Publishers
+### https://developers.taboola.com/backstage-api/reference
 
-For **Publisher reports**, refer to [Backstage API - Reports.pdf](https://github.com/taboola/Backstage-API/blob/master/Backstage%20API%20-%20Reports.pdf) in this repo.
+---
+
+#### _Note for Publishers_
+
+For **Publisher reports**, see the [Reports](https://github.com/taboola/Backstage-API/blob/master/Backstage%20API%20-%20Reports.pdf) doc.
