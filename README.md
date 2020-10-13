@@ -6,6 +6,6 @@
 
 ---
 
-#### _Note for Publishers_
-
-For **Publisher reports**, see the [Reports](https://github.com/taboola/Backstage-API/blob/master/Backstage%20API%20-%20Reports.pdf) doc.
+> Note for Publishers
+>
+> For **Publisher reports**, see the [Reports](https://github.com/taboola/Backstage-API/blob/master/Backstage%20API%20-%20Reports.pdf) doc.
