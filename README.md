@@ -8,4 +8,4 @@
 
 ### Publishers
 
-Please refer to the [Note For Publishers](https://developers.taboola.com/backstage-api/reference#a-note-for-publishers) in the above docs.
+Please see: [Note For Publishers](https://developers.taboola.com/backstage-api/reference#a-note-for-publishers)
